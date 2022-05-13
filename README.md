@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hey Larry here, welcome!
 
-<!--
 **blerry/blerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,5 +11,11 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
+- I enjoy working with web and mobile app frameworks like React Native, or using Firebase.
+- I like using languages like JavaScript, Java, Python, Kotlin
+
+- 🎸In my spare time I would be working on wirting a song to my audience :) 
+
+### Find out more about me at Blerryy.com 🌎
