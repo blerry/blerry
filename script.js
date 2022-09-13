@@ -9,7 +9,11 @@ if(theme == null){
 }
 
 let themeDots = document.getElementsByClassName('theme-dot')
-
+document.addEventListener("DOMContentLoaded", () => { //when window loads
+	document.getElementById("submit-btn").addEventListener("click",function(){
+	alert("Message Sent");
+})
+});	
 
 for (var i=0; themeDots.length > i; i++){
 	themeDots[i].addEventListener('click', function(){

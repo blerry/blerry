@@ -382,7 +382,11 @@ h6 { font-size: 16px;}
 	font-size: 14px;
 }
 
-
+#image-container10{
+	margin-left:100px;
+	width: 5vw;
+	height: 5wh;
+}
 #submit-btn{
 	margin-top: 10px;
 	width: 100%;
