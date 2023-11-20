@@ -16,4 +16,4 @@
 
 - 🎸In my spare time I would be working on wirting a song to my audience :) 
 
-Find out more about me at www.blerryy.com 🌎
+🌎
